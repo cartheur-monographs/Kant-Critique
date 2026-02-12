@@ -8,8 +8,8 @@ In this repository, there are two sets of translations of the original German wo
 
 _files_
 
-1-Meiklejohn.pdf (1897)
-2-Pluhar.pdf (1987)
+* 1-Meiklejohn.pdf (1897)
+* 2-Pluhar.pdf (1987)
 
 ### Organization
 
